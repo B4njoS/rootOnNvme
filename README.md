@@ -1,4 +1,4 @@
-**Backup to ([rootonnvme](https://github.com/jetsonhacks/rootOnNVMe.git)) [rootOnNvme]([url](https://github.com/jetsonhacks/rootOnNVMe.git))**
+**Backup to [rootonnvme](https://github.com/jetsonhacks/rootOnNVMe.git)**
 # All right deserved to jetsonhacks!
 
 # rootOnNVMe
@@ -37,4 +37,4 @@ Typically this involves copying the /boot* directory and /lib/modules/\<kernel n
 * Tested on Jetson Xavier NX
 
 # All right deserved to jetsonhacks!
-**Backup to [https://github.com/jetsonhacks/rootOnNVMe.git](url)**
+**Backup to [rootonnvme](https://github.com/jetsonhacks/rootOnNVMe.git)**
