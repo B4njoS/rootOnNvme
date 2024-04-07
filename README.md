@@ -1,3 +1,6 @@
+**Backup to https://github.com/jetsonhacks/rootOnNVMe.git**
+All right deserved to jetsonhacks!
+
 # rootOnNVMe
 Switch the rootfs to a NVMe SSD on the Jetson Xavier NX and Jetson AGX Xavier
 
@@ -33,3 +36,5 @@ Typically this involves copying the /boot* directory and /lib/modules/\<kernel n
 * JetPack 4.4 DP
 * Tested on Jetson Xavier NX
 
+All right deserved to jetsonhacks!
+**Backup to https://github.com/jetsonhacks/rootOnNVMe.git**
